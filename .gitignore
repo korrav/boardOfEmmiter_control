@@ -1,0 +1,10 @@
+signoise.run
+*.dml
+*jrl
+*.jrl,[0-9]
+*.dat,[0-9]
+*.log
+*.log,[0-9]
+*.scr
+*.scr,[0-9]
+*.tag
